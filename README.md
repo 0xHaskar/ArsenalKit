@@ -10,7 +10,7 @@
 > Disclaimer:
 > The author is not responsible for the contents of the files. Resources where files may be uploaded without careful checking may potentially contain malware. Use of the files is at your own risk.
 
-⚙️ Binaries Pack  <br>
+⚙️ Binaries Pack:  <br>
 1. https://www.kali.org/tools/windows-binaries/ <br>
 2. https://github.com/r3motecontrol/Ghostpack-CompiledBinaries <br>
 3. https://github.com/andrew-d/static-binaries <br>
