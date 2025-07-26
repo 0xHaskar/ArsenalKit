@@ -21,6 +21,6 @@ Use Google Dorks if necessary.  <br>
 <br>
 
 ⛏️ Living off the Land:  <br>
-1. https://lolbas-project.github.io/ <br>
+1. https://lolol.farm/ <br>
 > [!NOTE]
 > The Living Off the Land (LotL) attack in the world of information security is an attack in which an attacker uses legitimate programs and functions to carry out malicious actions within the target system.
