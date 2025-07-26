@@ -15,7 +15,12 @@
 2. https://github.com/r3motecontrol/Ghostpack-CompiledBinaries <br>
 3. https://github.com/andrew-d/static-binaries <br>
 
-
-💡 Hint 
+💡 Hint <br>
 Search through the keywords binary, binaries and tool name in Google, GitHub, kali.org/tools. <br>
-Use Google Dorks if necessary.
+Use Google Dorks if necessary.  <br>
+<br>
+
+⛏️ Living off the Land:  <br>
+1. https://lolbas-project.github.io/ <br>
+> [!NOTE]
+> The Living Off the Land (LotL) attack in the world of information security is an attack in which an attacker uses legitimate programs and functions to carry out malicious actions within the target system.
