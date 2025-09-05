@@ -12,6 +12,6 @@
 `/home/User/.nxc/modules` <br>
 ▶️ Launch example: <br>
 `nxc ldap ip -u user -p pass -M domaindump` <br>
-<br>
+
 Screenshot:<br>
  <img src="https://github.com/0xHaskar/ArsenalKit/blob/main/NetExec/domaindump/image.png" >
