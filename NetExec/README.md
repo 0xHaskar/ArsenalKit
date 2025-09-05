@@ -5,7 +5,7 @@
 
 ⚙️ Modules:<br>
 
-1. **domaindump** <br>
+**1. domaindump** <br>
 — Dumps domain info such as Users, Computers, Groups, Trusts and etc. <br>
 ✍️ Author: [Hermano](https://rehubcom.pro/members/33/) <br>
 📁 Move the module file to: <br>
