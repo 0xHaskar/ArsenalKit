@@ -7,12 +7,11 @@
 
 1. **domaindump** <br>
 — Dumps domain info such as Users, Computers, Groups, Trusts and etc. <br>
-Author: [Hermano](https://rehubcom.pro/members/33/) <br>
-
-Move the module file to: <br>
+✍️ Author: [Hermano](https://rehubcom.pro/members/33/) <br>
+📁 Move the module file to: <br>
 `/home/User/.nxc/modules` <br>
-Launch example: <br>
+▶️ Launch example: <br>
 `nxc ldap ip -u user -p pass -M domaindump` <br>
 <br>
 Screenshot:<br>
-
+ <img src="https://github.com/0xHaskar/ArsenalKit/blob/main/NetExec/domaindump/image.png" >
