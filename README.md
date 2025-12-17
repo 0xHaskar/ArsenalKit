@@ -26,7 +26,7 @@ Pre-compiled binaries and tools for penetration testing and red team operations.
 | 1 | [Kali Windows Binaries](https://www.kali.org/tools/windows-binaries/) | Official Kali Linux Windows tools collection |
 | 2 | [Ghostpack Compiled](https://github.com/r3motecontrol/Ghostpack-CompiledBinaries) | Compiled GhostPack tools (Rubeus, Seatbelt, etc.) |
 | 3 | [Static Binaries](https://github.com/andrew-d/static-binaries) | Statically-linked binaries for various architectures |
-| 4 | [Responder Windows](https://github.com/lgandx/Responder-Windows) | Responder LLMNR/NBT-NS/MDNS poisoner for Windows |
+| 4 | [Responder Windows](https://github.com/lgandx/Responder-Windows) | Responder for Windows |
 | 5 | [Sysinternals Suite](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) | Microsoft's advanced system utilities |
 
 <details>
