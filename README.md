@@ -2,7 +2,7 @@
 
 # ⚔️ ArsenalKit
 
-**Curated collection of offensive security tools, binaries & custom modules**
+**Curated collection of offensive security tools, binaries & custom scripts**
 
 [![Stars](https://img.shields.io/github/stars/0xHaskar/ArsenalKit?style=for-the-badge&logo=github&color=f4c542)](https://github.com/0xHaskar/ArsenalKit/stargazers)
 [![Forks](https://img.shields.io/github/forks/0xHaskar/ArsenalKit?style=for-the-badge&logo=github&color=4493f8)](https://github.com/0xHaskar/ArsenalKit/network/members)
