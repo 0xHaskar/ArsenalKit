@@ -10,8 +10,6 @@
 
 ---
 
-[Binaries](#-binaries-pack) • [LotL Resources](#%EF%B8%8F-living-off-the-land) • [Modules](#-custom-modules) • [Contributing](#-contributing)
-
 </div>
 
 > [!WARNING]
