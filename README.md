@@ -2,7 +2,7 @@
 
 # ⚔️ ArsenalKit
 
-**Curated collection of offensive security tools, binaries & custom scripts**
+**Collection of tools for offensive security and CTF**
 
 [![Stars](https://img.shields.io/github/stars/0xHaskar/ArsenalKit?style=for-the-badge&logo=github&color=f4c542)](https://github.com/0xHaskar/ArsenalKit/stargazers)
 [![Forks](https://img.shields.io/github/forks/0xHaskar/ArsenalKit?style=for-the-badge&logo=github&color=4493f8)](https://github.com/0xHaskar/ArsenalKit/network/members)
@@ -18,9 +18,6 @@
 ---
 
 ## 📦 Binaries Pack
-
-Pre-compiled binaries and tools for penetration testing and red team operations.
-
 | # | Resource | Description |
 |:-:|----------|-------------|
 | 1 | [Kali Windows Binaries](https://www.kali.org/tools/windows-binaries/) | Official Kali Linux Windows tools collection |
@@ -50,7 +47,6 @@ Pre-compiled binaries and tools for penetration testing and red team operations.
 | Resource | Description |
 |----------|-------------|
 | [LOLOL Farm](https://lolol.farm/) | Aggregated LOL resources & techniques |
-| [BYOVD Watchdog](https://byovd-watchdog.pwnfuzz.com/) | Bring Your Own Vulnerable Driver database |
 
 ---
 
