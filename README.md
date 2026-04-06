@@ -25,6 +25,7 @@
 | 3 | [Static Binaries](https://github.com/andrew-d/static-binaries) | Statically-linked binaries for various architectures |
 | 4 | [Responder Windows](https://github.com/lgandx/Responder-Windows) | Responder for Windows |
 | 5 | [Sysinternals Suite](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) | Microsoft's advanced system utilities |
+| 6 | [SharpCollection](https://github.com/Flangvik/SharpCollection/) | Nightly builds of common C# offensive tools |
 
 <details>
 <summary>💡 <b>Search Tips</b></summary>
